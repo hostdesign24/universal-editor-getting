@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "http://localhost:4502/bin/franklin.delivery/hostdesign24/universal-editor-getting/main"
+    url: "https://author-p31389-e1137799.adobeaemcloud.com/bin/franklin.delivery/hostdesign24/universal-editor-getting/main"
     type: "markup"
     suffix: ".html"
